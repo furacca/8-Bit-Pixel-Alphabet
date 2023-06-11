@@ -1,10 +1,10 @@
 # 8-Bit Pixel Alphabet
 
-This repository is a place where I store my own take on an 8-bit style pixel alphabet.
+This repository serves as a storage for my own 8-bit style pixel alphabet.
 
-The primary purpose of these pixel art letters is to design logos for my various projects. 
+These pixel art letters are primarily used for designing logos for my various projects.
 
-The pixel art is created using [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) (a robust open-source sprite editor).
+The pixel art has been created using [Pixelorama](https://github.com/Orama-Interactive/Pixelorama) (an open-source sprite editor).
 
 ## Available Presets
 
